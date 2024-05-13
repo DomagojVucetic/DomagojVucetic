@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Domagoj
-- I’m currently on the last year of master's degree in computer sciences;
+- I’m currently on the last year of my master's degree in computer sciences;
 - I'm interested in chess, basketball, data science and spending quality time with like-minded people;
 
 <!--
